@@ -17,7 +17,7 @@ seguem abaixo.
 
 ## 💻 Tecnologias utilizadas no projeto
 
-- [ChatGPT](https://chat.openai.com/) - criar título e contéudo
+- [ChatGPT](https://chat.openai.com/) - criar título e conteúdo
 - [PicLumen](https://piclumen.com/app/image-generator/create) - criar imagem da capa
 - [LibreOffice Impress](https://pt-br.libreoffice.org/descubra/impress/) - editar o ebook
 
@@ -29,8 +29,8 @@ ChatGPT：
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  título  | Crie um título de um ebook sobre o tema de pole dance, o ebook é sobre os tipos de pole dance e o subnicho iniciantes na atividade física, o título deve ser épico e curto, e tenha uma temática alegre no título, me liste 5 variações de títulos                                                         |
-| conteúdo | faça um texto para ebook, com foco em pole dance, listando os principais estilos com exemplos de movimentos e exercícios {REGRAS} > Explique sempre de uma maneira simples > Deixe o texto enxuto > Sempre traga exemplos de movimentos e exercícios em contextos reais > Sempre deixe um título sugestivo por tópicos 
-Ordenar os tipos por Pole Fitness, Pole Flow, Pole Sensual, Pole Exotic, Pole Glamour, Pole Art, Pole Drama, Pole Comedy
+| conteúdo | faça um texto para ebook, com foco em pole dance, listando os principais estilos com exemplos de movimentos e exercícios {REGRAS} > Explique sempre de uma maneira simples > Deixe o texto enxuto > Sempre traga exemplos de movimentos e exercícios em contextos reais > Sempre deixe um título sugestivo por tópicos |
+|Ordenar os tipos por Pole Fitness, Pole Flow, Pole Sensual, Pole Exotic, Pole Glamour, Pole Art, Pole Drama, Pole Comedy
 |Dicas Gerais para Iniciantes no Pole Dance |
 
 
