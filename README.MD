@@ -5,7 +5,7 @@
 />
 </p>
 
-# Conheça o Pole Dance e Descubra seu estilo!
+# EBOOK: Conheça o Pole Dance e Descubra seu estilo!
 Saude e Bem Estar | Estilo de Vida e Inspiração 
 
 
