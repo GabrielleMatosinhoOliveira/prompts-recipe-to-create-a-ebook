@@ -16,9 +16,9 @@ seguem abaixo.
 
 ## 💻 Tecnologias utilizadas no projeto
 
-- [ChatGPT](https://chat.openai.com/) 
-- [MidJourney](https://www.midjourney.com/app/)
-- [LibreOffice Impress](https://pt-br.libreoffice.org/descubra/impress/)
+- [ChatGPT](https://chat.openai.com/) - criar título e contéudo
+- [PicLumen](https://piclumen.com/app/image-generator/create) - criar imagem da capa
+- [LibreOffice Impress](https://pt-br.libreoffice.org/descubra/impress/) - editar o ebook
 
 ## 🧠 Prompts
 
@@ -27,25 +27,22 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um ebook sobre o tema de css, o ebookk é do nicho de programação e o subnicho é de css, o título deve ser épico e curto, e tenha uma temática de star wars no título, me liste 5 variações de títulos                                                        |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
+|  título  | Crie um título de um ebook sobre o tema de pole dance, o ebook é sobre os tipos de pole dance e o subnicho iniciantes na atividade física, o título deve ser épico e curto, e tenha uma temática alegre no título, me liste 5 variações de títulos                                                         |
+| conteúdo | faça um texto para ebook, com foco em pole dance, listando os principais estilos com exemplos de movimentos e exercícios {REGRAS} > Explique sempre de uma maneira simples > Deixe o texto enxuto > Sempre traga exemplos de movimentos e exercícios em contextos reais > Sempre deixe um título sugestivo por tópicos 
+Ordenar os tipos por Pole Fitness, Pole Flow, Pole Sensual, Pole Exotic, Pole Glamour, Pole Art, Pole Drama, Pole Comedy
+|Dicas Gerais para Iniciantes no Pole Dance |
 
 
-Midjourney：
+PicLumen：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título | A jedi in meditation pose, with your blue lightsaber floating, pixel art style --v 5.1 |
+| imagem | A mystical 3D watercolor paper quilling art piece depicts a fantasy-dressed woman pole dancer with a colorful top and short skirt, majestically holding onto the pole. The ground is adorned with an exuberant carpet of vibrant flowers and leaves, their petals and tendrils swirling in an enchanting dance. Above, an ethereal sky unfolds, a canvas of soft pastel tones and wispy brushstrokes, infused with a touch of magical realism, as if the very fabric of reality had been woven with wonder. The presence of the pole dancer seems to draw the eye upwards, towards the soft and dreamlike expanse of the sky, where clouds float lazily, like wisps of forgotten memories. In this enchanted realm, the boundaries between reality and fantasy blur, and the beauty of the intricate pole dancer design is elevated to an almost supernatural plane, as if the very essence of magic had been distilled into this singular and captivating work of art. --piclumen -rs 1024:1024 -np "" -g "1" -s "6" -bs "1" -e "89361418500" -st "create" -mn "PicLumen Art V1" |
 
-## ✨ Features
-
-- Conteúdo gerado via ChatGPT
-- Imagens geradas via MidJourney
 
 ## 📚 Materiais
 
 - Imagens e ebook gerados em `assets`
-
 
 ---
 
